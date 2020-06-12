@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <p><img scr="https://media-exp1.licdn.com/dms/image/C5603AQHzq0jENaVLaA/profile-displayphoto-shrink_200_200/0?e=1595462400&v=beta&t=WY0ovKlbWw7N74uPwwuqTrfVOE_G8Tewcr97Yy8sm0c" alt="pic of Lauren"> I.T. INTERN (Systems Administrator) Jennings School District -  2020 - 2020
+export default st =>`
+<p><img scr="https://media-exp1.licdn.com/dms/image/C5603AQHzq0jENaVLaA/profile-displayphoto-shrink_200_200/0?e=1595462400&v=beta&t=WY0ovKlbWw7N74uPwwuqTrfVOE_G8Tewcr97Yy8sm0c" alt="pic of Lauren"> I.T. INTERN (Systems Administrator) Jennings School District -  2020 - 2020
      </p>
      <p> Supervisor AMERICAN BUILDING MAINTENANCE -  2018 - 2019
      </p>
@@ -40,6 +33,4 @@
 
 </p>
 <p>My journey through coding!!!! <li href="https://github.com/lkye12/Web_Pratice" > li link to my web project!</li></p>
-
-</body>
-</html>
+`
